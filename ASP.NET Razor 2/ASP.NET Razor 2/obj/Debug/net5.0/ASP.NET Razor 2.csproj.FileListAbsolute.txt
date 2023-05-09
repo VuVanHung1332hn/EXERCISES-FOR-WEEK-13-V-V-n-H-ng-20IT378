@@ -1,0 +1,46 @@
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\appsettings.Development.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\appsettings.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.exe
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.deps.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.runtimeconfig.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.runtimeconfig.dev.json
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.Views.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\bin\Debug\net5.0\ASP.NET Razor 2.Views.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.csproj.AssemblyReference.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.AssemblyInfoInputs.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.AssemblyInfo.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.csproj.CoreCompileInputs.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.MvcApplicationPartsAssemblyInfo.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.RazorAssemblyInfo.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.RazorAssemblyInfo.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\scopedcss\bundle\ASP.NET Razor 2.styles.css
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\staticwebassets\ASP.NET Razor 2.StaticWebAssets.Manifest.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\staticwebassets\ASP.NET Razor 2.StaticWebAssets.Pack.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\staticwebassets\msbuild.ASP.NET Razor 2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\staticwebassets\msbuild.build.ASP.NET Razor 2.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Razor 2.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ASP.NET Razor 2.props
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.TagHelpers.input.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.TagHelpers.output.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.RazorCoreGenerate.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\ContactRequest.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.RazorTargetAssemblyInfo.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.RazorTargetAssemblyInfo.cs
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.Views.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\refint\ASP.NET Razor 2.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.pdb
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.genruntimeconfig.cache
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ref\ASP.NET Razor 2.dll
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\ASP.NET Razor 2.csproj.CopyComplete
+E:\File năm 3 kì 2\Lập trình web nâng cao (1)\ASP.NET Razor 2\ASP.NET Razor 2\obj\Debug\net5.0\Razor\Pages\ProductPage.cshtml.g.cs

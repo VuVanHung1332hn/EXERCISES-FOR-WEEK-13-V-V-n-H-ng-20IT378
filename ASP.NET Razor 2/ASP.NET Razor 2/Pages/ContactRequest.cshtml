@@ -1,0 +1,50 @@
+﻿@page "/contant.html"
+@model ContactRequestModel 
+
+@{
+    ViewData["Title"] = "LIEN HE";
+}
+
+<h1 class="display-4"> Trang liên hệ </h1>
+<p class="lead">Điền các thông tin liên hệ</p>
+<hr/>
+<form class="bg-light p-2 m-2" method="post" asp-page="ContantRequest">
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="UserID"></label>
+        <input class="form-control" asp-for="@Model.UserID"></input>
+        <span class="text-danger" asp-validation-for="UserID"></span>
+
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Email"></label>
+        <input class="form-control" asp-for="@Model.Email"></input>
+        <span class="text-danger" asp-validation-for="Email"></span>
+
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="UserName"></label>
+        <input class="form-control" asp-for="@Model.UserName"></input>
+        <span class="text-danger" asp-validation-for="UserName"></span>
+
+    </div>
+
+    <button class="btn btn-danger" type="submit">Gửi</button>
+</form>
+
+<div class="alert alert-danger">
+    
+        <p>Thông tin User:</p>
+        <ul>
+        <li>UserID: @Model.UserID</li>
+        <li>UserName: @Model.UserName</li>
+        <li>Email: @Model.Email</li>
+        
+        </ul>
+    
+</div>
+
+@section Scripts{
+    <partial name ="_ValidationScriptsPartial"/>
+}
+
